@@ -1,0 +1,34 @@
+.sidebarTab {
+  color: white;
+  height: 10%;
+  display: flex;
+  align-items: center;
+}
+
+.sidebarTab:hover {
+  background-color: #292a48;
+  cursor: pointer;
+}
+
+.textIconBox {
+  width: 84%;
+  display: flex;
+  align-items: center;
+}
+
+.counterBox {
+  width: 16%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: rgb(138, 137, 149);
+}
+
+.textIconBox .icon {
+  margin-left: 12px;
+}
+
+.textIconBox .text {
+  margin-left: 12px;
+}

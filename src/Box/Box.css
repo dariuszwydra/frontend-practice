@@ -1,0 +1,9 @@
+.box {
+  display: flex;
+  color: white;
+  text-align: center;
+  height: 72vh;
+  width: 64vw;
+  border-radius: 8px;
+  overflow: hidden;
+}
