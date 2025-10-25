@@ -1,11 +1,5 @@
-# ELP Assignment
-
-This project was made for recruitment purposes.
-
-It contains one view from .psd project, made pixel perfect in 2 nominal resolutions. 
+Just one view from .psd project, made (almost) pixel perfect in 2 nominal resolutions. 
 Star icons are clickable, as well as tab selecting. 
-
-Scrollbar is not modified, as it was asked.
 
 PSD:
 ![image](https://user-images.githubusercontent.com/45369159/128640278-ee0c9b42-ab67-44ba-9151-b6649839db6a.png)
